@@ -33,6 +33,5 @@ Description: Demonstrates the payload used.
 - Gained hands-on experience with DVWA.
 
 ## 🙋‍♂️ Author
-Suraj Vishwakarma  
-BCA Cybersecurity Student  
+Suraj Vishwakarma    
 
